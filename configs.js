@@ -4,11 +4,11 @@ import { FiUserCheck } from 'react-icons/fi';
 import { HiMiniCloudArrowDown } from 'react-icons/hi2';
 import { MdHighQuality, MdDevicesOther } from 'react-icons/md';
 
-export const author = 'Farhannnn';
+export const author = 'ZexxaDev';
 export const proxy_url = 'https://cors-fxc7.cloud.okteto.net/proxy/';
 export const api_url = 'https://cors-fxc7.cloud.okteto.net/tiktok/'
-export const title = 'xcoders - tiktok downloader';
-export const navbar_title = 'Tike Down';
+export const title = 'Tiktok Downloader | ZexxaDev';
+export const navbar_title = 'ZexTik Down';
 
 export const features = [
     {
